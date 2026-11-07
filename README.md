@@ -94,7 +94,8 @@ npm run dev
 
 ## 🔗 Enlaces
 
-- **Aplicación desplegada en Vercel:** `<agrega aquí el link de Vercel>`
+- **App Ejercicio 1 (CSS Modules + Tailwind):** https://lab11-dawa-styling.vercel.app/styling
+- **App Ejercicio 2 + Tarea (shadcn/ui Dashboard):** https://lab11-dawa-dashboard.vercel.app/dashboard
 
 ---
 
