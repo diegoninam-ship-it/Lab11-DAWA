@@ -258,7 +258,6 @@ export function TeamMemberForm({
                       captionLayout="dropdown"
                       selected={birthdate}
                       onSelect={setBirthdate}
-                      initialFocus
                     />
                   </PopoverContent>
                 </Popover>

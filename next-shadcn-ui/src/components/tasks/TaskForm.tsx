@@ -257,7 +257,6 @@ export function TaskForm({ task }: { task?: Task }) {
                     mode="single"
                     selected={dateline}
                     onSelect={setDateline}
-                    initialFocus
                   />
                 </PopoverContent>
               </Popover>

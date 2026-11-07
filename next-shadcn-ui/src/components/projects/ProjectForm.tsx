@@ -261,7 +261,6 @@ export function ProjectForm() {
                       mode="single"
                       selected={dueDate}
                       onSelect={setDueDate}
-                      initialFocus
                     />
                   </PopoverContent>
                 </Popover>
